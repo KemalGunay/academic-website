@@ -1,6 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: 
 education:
   courses:
   - course: PhD in Communication Sciences
@@ -23,8 +22,8 @@ interests:
 last_name: Gunay
 organizations:
 - name: Istanbul University
-  url: https://scholar.google.com/citations?user=06xaBDAAAAAJ&hl=en
-role: Researcher
+  url: 
+role: Ph.D. Researcher
 social:
 - icon: envelope
   icon_pack: fas
@@ -52,4 +51,4 @@ I am a PhD researcher at the Faculty of Communication at Istanbul University and
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
