@@ -1,11 +1,11 @@
 ---
 date: "2016-04-27T00:00:00Z"
-external_link: https://example.org
+external_link: https://medium.com/@kemalgunay/python-comprehensions-for-beginners-everything-you-need-to-know-before-starting-your-data-science-5b376df59344
 image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
-summary: An example of linking directly to an external project website using `external_link`.
+summary: Blog post for beginner python users
 tags:
 - Demo
-title: External Project
+title: Python Comprehensions For Beginners Everything You Need to Know Before Starting Your Data Science Journey
 ---
