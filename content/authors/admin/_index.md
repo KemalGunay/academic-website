@@ -14,7 +14,7 @@ education:
   - course: Music Technology
     institution: Bournemouth and Poole College (United Kingdom)
     year: 2011    
-  - course: Public Relations and Publicty
+  - course: Public Relations and Publicity
     institution: Istanbul University
     year: 2007
 email: "kemalgnay@gmail.com"
@@ -25,7 +25,7 @@ interests:
 - Artificial Intelligence
 - Computational Linguistics
 - Statistics
-- Communications Sciences
+- Communication Sciences
 last_name: Gunay
 organizations:
 - name: Istanbul University
@@ -54,7 +54,9 @@ superuser: true
 title: Kemal Gunay
 ---
 
-I am a Ph.D. researcher at the Faculty of Communication at Istanbul University and I am also a data scientist. My research interests are computational social science, natural language process, social networks, statistics, social media / public opinion mining, political discourse & polarization and environmental & climate communication.
+PhD-level educated, computational social scientist | data scientist, who works to design, develop and implement advanced datadriven predictive methods, powered by machine learning and deep learning algorithms, to provide actionable insights from
+large volumes of real-world, structured and unstructured data in order to satisfy the business needs / goals for decision
+making across different industries and roles. 
 
 
 

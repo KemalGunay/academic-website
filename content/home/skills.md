@@ -32,6 +32,11 @@ feature:
     icon: js
     icon_pack: fab
     name: JavaScript
+  - description: ''
+    icon: docker
+    icon_pack: fab
+    name: Docker  
+  
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
