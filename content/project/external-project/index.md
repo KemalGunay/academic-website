@@ -6,6 +6,6 @@ image:
   focal_point: Smart
 summary: Blog post for beginner python users
 tags:
-- Demo
+- Other
 title: Python Comprehensions For Beginners Everything You Need to Know Before Starting Your Data Science Journey
 ---

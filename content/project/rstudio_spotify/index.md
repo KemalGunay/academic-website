@@ -6,7 +6,7 @@ image:
   focal_point: Smart
 summary: Spotifyr is an R wrapper for pulling track audio features and other information from Spotify’s Web API in bulk. You can easily analyze your listining records.
 tags:
-- Demo
+- Other
 title: Spotify User Profile Analysis With Spotifyr — RStudio
 
 ---
