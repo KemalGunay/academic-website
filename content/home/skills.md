@@ -20,7 +20,7 @@ feature:
     icon: r-project
     icon_pack: fab
     name: R
-  - description: 100%
+  - description: 
     icon: chart-line
     icon_pack: fas
     name: Statistics
@@ -36,6 +36,10 @@ feature:
     icon: docker
     icon_pack: fab
     name: Docker  
+  - description: ''
+    icon: aws
+    icon_pack: fab
+    name: AWS
   
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
