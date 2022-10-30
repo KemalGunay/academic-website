@@ -24,7 +24,7 @@ interests:
 - Computational Social Science
 - Natural Language Processing
 - Quantitative Text Analysis
-- Communication Sciences
+- Statistics
 - Media Studies
 last_name: Gunay
 organizations:
