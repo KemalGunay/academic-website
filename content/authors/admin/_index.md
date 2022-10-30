@@ -21,11 +21,11 @@ email: "kemalgnay@gmail.com"
 first_name: Kemal
 highlight_name: true
 interests:
+- Computational Social Science
 - Natural Language Processing
-- Artificial Intelligence
-- Computational Linguistics
-- Statistics
+- Quantitative Text Analysis
 - Communication Sciences
+- Media Studies
 last_name: Gunay
 organizations:
 - name: Istanbul University
@@ -43,7 +43,7 @@ social:
   link: https://twitter.com/kemallgunay
 - icon: graduation-cap
   icon_pack: fas
-  link: https://www.researchgate.net/profile/Kemal-Gunay
+  link: https://scholar.google.com/citations?user=I3odNcQAAAAJ&hl=tr
 - icon: github
   icon_pack: fab
   link: https://github.com/KemalGunay
@@ -54,9 +54,7 @@ superuser: true
 title: Kemal Gunay
 ---
 
-PhD-level educated, computational social scientist | data scientist, who works to design, develop and implement advanced datadriven predictive methods, powered by machine learning and deep learning algorithms, to provide actionable insights from
-large volumes of real-world, structured and unstructured data in order to satisfy the business needs / goals for decision
-making across different industries and roles. 
+PhD-level educated, computational social scientist, who works to design, develop and implement advanced datadriven predictive methods, powered by machine learning and deep learning algorithms, to provide actionable insights from large volumes of real-world, structured and unstructured data in order to satisfy the business needs / goals for decision making.
 
 
 
