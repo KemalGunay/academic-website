@@ -54,7 +54,8 @@ superuser: true
 title: Kemal Gunay
 ---
 
-PhD-level educated, computational social scientist, who works to design, develop and implement advanced datadriven predictive methods, powered by machine learning and deep learning algorithms, to provide actionable insights from large volumes of real-world, structured and unstructured data in order to satisfy the business needs / goals for decision making.
+
+I am a PhD digital media researcher (Scholar) at the Faculty of Communication at Istanbul University and I am also a data scientist. My research interests are Computational Social Science, Natural Language Process, social networks, statistics, social media / public opinion mining, political discourse & polarization and environmental & climate communication.
 
 
 
