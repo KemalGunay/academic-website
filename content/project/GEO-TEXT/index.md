@@ -10,5 +10,5 @@ summary:  In this task, you are required to create an algorithm that takes as in
 
 tags:
 - NLP
-title: Geolocation Aalgorithm From Text to Location
+title: Geolocation Algorithm From Text to Location
 ---
