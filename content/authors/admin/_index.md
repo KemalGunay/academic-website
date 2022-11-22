@@ -22,8 +22,8 @@ first_name: Kemal
 highlight_name: true
 interests:
 - Computational Social Science
-- Natural Language Processing
-- Quantitative Text Analysis
+- Climate Change Communications
+- Quantitative Text Analysis / NLP
 - Statistics
 - Media Studies
 last_name: Gunay
