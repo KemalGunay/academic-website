@@ -7,16 +7,16 @@ education:
     year: 2022
   - course: Communication and Social Sciences (Erasmus)
     institution: Universidad San Jorge (Spain)
-    year: 2018    
+    year:   
   - course: Corporate Communication
     institution: Istanbul University
-    year: 2018
+    year: 
   - course: Music Technology
     institution: Bournemouth and Poole College (United Kingdom)
-    year: 2011    
+    year:   
   - course: Public Relations and Publicity
     institution: Istanbul University
-    year: 2007
+    year: 
 email: "kemalgnay@gmail.com"
 first_name: Kemal
 highlight_name: true
