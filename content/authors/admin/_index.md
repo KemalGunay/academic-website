@@ -55,8 +55,9 @@ title: Kemal Gunay
 ---
 
 
-I am a PhD digital media researcher (Scholar) at the Faculty of Communication at Istanbul University and I am also a data scientist. My research interests are natural language process, social networks, statistics, social media / public opinion mining, political discourse & polarization and environmental & climate communication.
+I am a PhD candidate (Scholar) at the Faculty of Communication at Istanbul University. I will graduate in late 2022 My research interests are natural language process, social networks, statistics, social media / public opinion mining, political discourse & polarization and environmental & climate communication.
 
+In my research I use a variety of methods and employ a wide range of data types, and am specifically interested in advanced Natural Language Processing (NLP) techniques. 
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/academic_cv.pdf" "newtab" >}}academic CV{{< /staticref >}}  and {{< staticref "uploads/resume_is.pdf" "newtab" >}}resumé{{< /staticref >}}.
